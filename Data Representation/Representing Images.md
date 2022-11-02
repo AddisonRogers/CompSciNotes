@@ -22,6 +22,8 @@ The number of pixels used to make up a bitmap image is defined by the resolution
 
 Resolution is defined as width x height. Resolution doesn't define the actual physical size of the image however, every image can be infinitely grown or shrink however you can suffer from deterioration in quality. 
 
+spaghetti
+
 ### Creating an image
 Each pixel is given a binary value. Each value represents a different colour. Each pixel can represent a finite number of colours. 2^n dictates the bit depth and the number of colours that can be represented. A higher bit depth gives a greater range of colour and a better quality of image. 
 
