@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "85f4fd8a32555951",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b931270e38c7ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48bc9bda98309d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Representation/Representing Images.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f77bf65664831400",
+    "type": "split",
+    "children": [
+      {
+        "id": "76547102f5be929c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe9b2fe09d0e955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74fe99506522be4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "770c05f6472b6a34",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "220181bcc8b012aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8108de980ea101c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fdb9d5c7dd6b43a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Representation/Representing Images.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5483e9c1959e5f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Representation/Representing Images.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b5c8e1fd04dcfa2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bc16972999afe0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Representation/Representing Images.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "48bc9bda98309d85",
+  "lastOpenFiles": [
+    "Theory of Computation/6. Backus-Naur Form.md",
+    "Theory of Computation/5. RegEx.md",
+    "Theory of Computation/4. RegEx Maths.md",
+    "Theory of Computation/3. Finite State Machines.md",
+    "Theory of Computation/2. Optimisation Algorithms - Dijkstra's Shortest Path.md",
+    "Theory of Computation/1. Reverse Polish.md",
+    "OOP/1. OOP Intro.md",
+    "OOP/7. OOP Principles.md",
+    "OOP/6. Static Abstract Methods.md",
+    "OOP/5. Aggregation.md"
+  ]
+}
