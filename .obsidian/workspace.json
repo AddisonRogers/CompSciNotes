@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "92b931270e38c7ce",
+        "id": "4655daf06de5c0fa",
         "type": "tabs",
         "children": [
           {
-            "id": "48bc9bda98309d85",
+            "id": "a29b9e3354539b34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Representation/Representing Images.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfcd94f1726b7589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "y/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "y/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "y/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "y/Untitled.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,19 +135,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "dfcd94f1726b7589",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "Data Representation/Representing Images.md",
     "Theory of Computation/6. Backus-Naur Form.md",
     "Theory of Computation/5. RegEx.md",
-    "Theory of Computation/4. RegEx Maths.md",
+    "Theory of Computation/4. Sets.md",
+    "Theory of Computation/Untitled.md",
     "Theory of Computation/3. Finite State Machines.md",
     "Theory of Computation/2. Optimisation Algorithms - Dijkstra's Shortest Path.md",
     "Theory of Computation/1. Reverse Polish.md",
-    "OOP/1. OOP Intro.md",
-    "OOP/7. OOP Principles.md",
-    "OOP/6. Static Abstract Methods.md"
+    "Images/Pasted image 20221101112957.png",
+    "Data Representation/Representing Images.md",
+    "y/Untitled.md"
   ]
 }

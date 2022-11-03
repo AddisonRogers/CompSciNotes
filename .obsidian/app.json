@@ -1,3 +1,6 @@
 {
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Images"
 }
