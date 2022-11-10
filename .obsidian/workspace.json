@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4655daf06de5c0fa",
+        "id": "4bc519fc5c253240",
         "type": "tabs",
         "children": [
           {
-            "id": "a29b9e3354539b34",
+            "id": "116397d92a47aee7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Representation/Representing Sound.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Representation/Representing Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Representation/Representing Sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Representation/Representing Sound.md"
+              }
             }
           }
         ],
@@ -138,20 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "Theory of Computation/6. Backus-Naur Form.md",
-    "Theory of Computation/5. RegEx.md",
-    "Theory of Computation/4. Sets.md",
-    "Theory of Computation/Untitled.md",
-    "Theory of Computation/3. Finite State Machines.md",
+    "Data Representation/Representing Sound.md",
+    "Data Representation/Representing Images.md",
     "Theory of Computation/2. Optimisation Algorithms - Dijkstra's Shortest Path.md",
     "Theory of Computation/1. Reverse Polish.md",
-    "Images/Pasted image 20221101112957.png",
-    "Data Representation/Representing Images.md",
-    "y/Untitled.md"
+    "Theory of Computation/6. Backus-Naur Form.md",
+    "y/Untitled.md",
+    "Theory of Computation/5. RegEx.md",
+    "Theory of Computation/4. RegEx Maths.md",
+    "Theory of Computation/3. Finite State Machines.md",
+    "OOP/1. OOP Intro.md"
   ]
 }
