@@ -21,8 +21,7 @@ Common bitmap file types are :
 The number of pixels used to make up a bitmap image is defined by the resolution. The area is defined by the image width and height in pixels ie 1080 * 1920.
 
 Resolution is defined as width x height. Resolution doesn't define the actual physical size of the image however, every image can be infinitely grown or shrink however you can suffer from deterioration in quality. 
-
-spaghetti
+Can easily replicate an image with areas of changing colour. Individual pixels can be manipulated within a bitmap image.
 
 ### Creating an image
 Each pixel is given a binary value. Each value represents a different colour. Each pixel can represent a finite number of colours. 2^n dictates the bit depth and the number of colours that can be represented. A higher bit depth gives a greater range of colour and a better quality of image. 
@@ -41,6 +40,9 @@ Metadata is data about data and is stored in the same file as the image data. It
 
 ## Vector graphics
 Vector images are made up of geometric shapes or objects rather than by manipulating individual pixels. The properties of each shape are stored and retrieved in order to mathematically redraw the shape on the screen to display it.
+
+Vector images are composed of objects. The properties of these objects are stored. Co-ordinates of images are stored as mathematical data. Points are described by a relative distance from the origin. Objects can be scaled and grouped together. Every line is described by it's features : Start, End, Length, Thickness, Colour etc
+
 Common file formats :
 - SWF
 - EPS
@@ -53,7 +55,7 @@ The properties of shapes are stored in a vector drawing list to define them. The
 - Length and width or radius
 
 Common software functions can be used to set or adjust these properties.
-Vector graphics are typically larger,but do not lose quality as it grows.
+Vector graphics are typically much smaller file size, using less memory and do not lose quality as it grows. No distortion. 
 
 ## Resizing images
 Whilst bitmap graphics will often pixelate as you enlarge them, vectors are mathematically redrawn at whatever size they are set to.

@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a362e05a34d83c12",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Data Representation/Encryption.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OLD/Computer Systems (OLD)/Processor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OLD/Computer Systems (OLD)/Processor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OLD/Computer Systems (OLD)/Processor.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,6 +156,8 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "OLD/Computer Systems (OLD)/Processor.md",
     "OLD/Computer Systems (OLD)/Internal hardware.md",
     "OLD/Computer Systems (OLD)/Input and Output devices.md",
     "OLD/Computer Systems (OLD)/Instruction Set.md",
@@ -155,8 +165,6 @@
     "OLD/Computer Systems (OLD)/Assembly language.md",
     "OLD/Computer Systems/N. Adders and D-Type flip flops.md",
     "OLD/Computer Systems/1. Hardware and Software.md",
-    "OOP (OLD REDO).md",
-    "OOP/4. Inheritance.md",
-    "OOP/2. Object Instantiation.md"
+    "OOP (OLD REDO).md"
   ]
 }
