@@ -1,4 +1,3 @@
-
 An OS forms a bridge between the physical hardware of a computer and the user or application software.
 
 # Hiding the Complexities of Operation
@@ -8,10 +7,10 @@ An OS forms a bridge between the physical hardware of a computer and the user or
 
 # Functions of an OS
 
-- [[Role of an operating system.#Memory management |Memory Management]]
-- [[Role of an operating system.#Processor scheduling|Processor scheduling]]
-- [[Role of an operating system.#Backing store management |Backing store management]]
-- [[Role of an operating system.#IO device management |Peripheral management of IO devices]]
+- [[Role of an operating system#Memory management |Memory Management]]
+- [[Role of an operating system#Processor scheduling|Processor scheduling]]
+- [[Role of an operating system#Backing store management |Backing store management]]
+- [[Role of an operating system#IO device management |Peripheral management of IO devices]]
 
 # Memory Management
 
