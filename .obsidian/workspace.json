@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b99033622ba9483c",
+        "id": "796318bcc05997b0",
         "type": "tabs",
         "children": [
           {
-            "id": "8b54446493249556",
+            "id": "eb2226e4d8110415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems/Logic Gates.md",
+                "file": "Maths for Computer Scientists/Binary Fractions + Arithmetic + Floating point.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Systems/Logic Gates.md",
+                "file": "Maths for Computer Scientists/Binary Fractions + Arithmetic + Floating point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Systems/Logic Gates.md",
+                "file": "Maths for Computer Scientists/Binary Fractions + Arithmetic + Floating point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Systems/Logic Gates.md"
+                "file": "Maths for Computer Scientists/Binary Fractions + Arithmetic + Floating point.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
+    "Maths for Computer Scientists/Boolean Algebra.md",
+    "Data Representation/Compression.md",
     "Computer Systems/Assembly language.md",
     "Images/Pasted image 20220509084807.png",
     "Images/Pasted image 20220509142923.png",
@@ -155,8 +157,6 @@
     "OOP/7. OOP Principles.md",
     "OLD/OOP/OOP.md",
     "OOP/5. Relationships.md",
-    "OOP/3. Accessibility & Visibility.md",
-    "OOP/2. Object Instantiation.md",
-    "OOP/1. OOP Intro.md"
+    "OOP/3. Accessibility & Visibility.md"
   ]
 }
