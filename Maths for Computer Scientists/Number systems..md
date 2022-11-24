@@ -1,11 +1,3 @@
----
-banner: "![[Pasted image 20220510194021.png]]"
-banner_y: 0.53334
----
-
-# Number Systems
-
-10/05/2022
 
 ## Types of Numbers
 
@@ -57,5 +49,3 @@ The hexadecimal number system uses 16 digits : 0 - F. This is base 16.
 
 > [!NOTE] Why use hex?
 > We use hexadecimal value because it is much easier to read, remember and type in comparison to a string of binary digits. Hex is used for colours, mac addresses, in assembly languages and machine code. It is also very easy to convert to and from binary.
-
-#compsci #mathsforcompsci

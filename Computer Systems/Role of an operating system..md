@@ -1,6 +1,4 @@
-# What is an Operating System?
 
-#compsci
 An OS forms a bridge between the physical hardware of a computer and the user or application software.
 
 # Hiding the Complexities of Operation
@@ -39,5 +37,5 @@ The OS keeps track of where all files are stored on the hard disk or external dr
 # IO Device Management
 
 - Communicates with I/O devices via the I/O controller, part of the CPU
-- Checks that a required output device is switched on and ready to recieve data
+- Checks that a required output device is switched on and ready to receive data
 - Deals with [[Processor]] 'interrupts'

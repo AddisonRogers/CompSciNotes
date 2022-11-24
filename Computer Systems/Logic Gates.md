@@ -1,6 +1,4 @@
-# Introduction
 
-#compsci
 A computer is a collection of transistors and circuits with two states:
 - on = 1 = true, where there is a current flowing through the component
 - off = 0 = false, where there isn't a current flowing through the component

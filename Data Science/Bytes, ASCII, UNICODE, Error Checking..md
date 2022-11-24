@@ -1,14 +1,5 @@
----
-banner: "![[Pasted image 20220509155218.png]]"
-banner_y: 0.74
----
 
 # Bytes
-
-09/05/2022
-
-> The byte is a unit of digital information that most commonly consists of eight bits. Historically, the byte was the number of bits used to encode a single character of text in a computer and for this reason it is the smallest addressable unit of memory in many computer architectures. To disambiguate arbitrarily sized **Bytes** from the common 8-bit definition, network protocol documents such as The Internet Protocol (RFC 791) refer to an 8-bit byte as an octet. Those bits in an octet are usually counted with numbering from 0 to 7 or 7 to 0 depending on the bit endianness. The first bit is number 0, making the eighth bit number 7.
-> [Wikipedia](https://en.wikipedia.org/wiki/Byte)
 
 ## Electricity
 
@@ -28,19 +19,23 @@ Two or more bytes can be grouped together to hold larger values.
 > [!seealso] Nibble / Nybble / Nyble / Nybl
 > A 4 bit group that is less commonly used in the modern day apart from it’s use in networking.
 
-![[Pasted image 20220509164854.png]]`center`
-
-![[Pasted image 20220509164908.png]]`center`
+| Prefix | Symbol | Multiple |
+| ------ | ------ | -------- |
+| Kilo   | kB     | 10^3     |
+| Mega   | MB     | 10^6     |
+| Giga   | GB     | 10^9     |
+| Tera   | TB     | 10^12    |
+|        |        |          |
+| Kibi   | KiB    | 2^10     |
+| Mebi   | MiB    | 2^20     |
+| Gibi   | GiB    | 2^30     |
+| Tebi   | TiB    | 2^40         |
 
 # Representing Text Characters
 
 If a computer only understands 1s and 0s, what happens when we need to enter text?
 
 ## ASCII
-
-> **ASCII** ( (listen) ASS-kee),: 6  abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters.
-> [Wikipedia](https://en.wikipedia.org/wiki/ASCII)
-
 Every character on the keyboard is represented by a binary value. Uppercase letters have different values than lowercase symbols. Punctuation and space etc have their own character.
 > [!note] Bit length
 > Only used 7 bits as well making it extremely efficient for sending and storing data. It could also use the final bit as a parity bit for error checking.
@@ -48,11 +43,6 @@ Every character on the keyboard is represented by a binary value. Uppercase lett
 However because 7 bits isn’t enough for any language other than English so Unicode is generally used.
 
 ## Unicode
-
-> **unicode**, formally the Unicode Standard, is an information technology standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The standard, which is maintained by the Unicode Consortium, defines 144,697 characters covering 159 modern and historic scripts, as well as symbols, emoji, and non-visual control and formatting codes.
-> Unicode's success at unifying character sets has led to its widespread and predominant use in the internationalization and localization of computer software. The standard has been implemented in many recent technologies, including modern operating systems, XML, and most modern programming languages.
-> [Wikipedia](https://en.wikipedia.org/wiki/Unicode)
-
 The Unicode system was introduced to standardise the encoding of characters from all languages, using either 16 or 32 bit lengths and it is cross compatible with the ASCII code as the first 128 Unicode characters are the same ASCII ones.
 
 # Error Checking
@@ -81,5 +71,3 @@ A check digit is additional digit at the end of a string of other numbers design
 
 A checksum works in a similar way to a check digit. With all of the digits added into a sum, if the sum is what is expected by the receiver then the data is accepted otherwise it will signal it is wrong.
 
-
-#compsci #datascience

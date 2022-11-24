@@ -1,13 +1,3 @@
----
-banner: "![[Pasted image 20220510003018.png]]"
-banner_y: 0.25334
----
-
-# Data Structures
-
-10/05/2022
-
-## Introduction
 
 ### Data Types
 
@@ -30,9 +20,6 @@ Dynamic data structures can grow and shrink, allocating and deallocating memory 
 
 ### Arrays and Lists
 
-> An **Array** is a systematic arrangement of similar objects, usually in rows and columns.
-> [Wikipedia](https://en.wikipedia.org/wiki/Array)
-
 Arrays are ordered sets of data of the same type grouped together using a single identifier. Arrays can have multiple dimensions.
 
 
@@ -46,11 +33,6 @@ Underflow - Attempting to pop from a data structure that is empty.
 
 ## Queues
 
-> In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence. By convention, the end of the sequence at which elements are added is called the back, tail, or rear of the queue, and the end at which elements are removed is called the head or front of the queue, analogously to the words used when people line up to wait for goods or services.
-> The operation of adding an element to the rear of the queue is known as enqueue, and the operation of removing an element from the front is known as dequeue.
-> Another usage of queues is in the implementation of breadth-first search.
-> [Wikipedia](https://en.wikipedia.org/wiki/Queue%20(abstract%20data%20type))
-
 A queue is a data structure under a first in last out (FIFO) system. With either adding items to the rear or removing items from the front. A queue as a fixed size array may easily run into problems as the pointer of where the head is increases by one rather than changing the data beneath it. Therefore circular queues are made.
 
 ### Circular Queue
@@ -62,12 +44,6 @@ A circular queue fixes this problem by reusing spaces that have been freed by de
 In a priority queue some items are allowed to jump the queue as each item has a different priority associated with it.
 
 ## Stacks
-
-> In computer science, a stack is an abstract data type that serves as a collection of elements, with two main principal operations:
-> Push, which adds an element to the collection, and
-> Pop, which removes the most recently added element that was not yet removed.
-> A stack is needed to implement depth-first search.
-> [Wikipedia](https://en.wikipedia.org/wiki/Stack%20(abstract%20data%20type))
 
 A stack is similar to a queue however the order of insertion is the reverse of the order of removal ie Last in first out (LIFO).
 
@@ -100,32 +76,86 @@ A graph is a diagram consisting of circles, called vertices, joined by lines cal
 ### Trees
 
 A tree is a common abstract data type (ADT).
-![[Pasted image 20220510020140.png]]`center`
+```mermaid
+graph TB
+A((A))
+B((B))
+C((C))
+D((D))
+E((E))
+F((F))
+G((G))
+H((H))
+I((I))
+J((J))
+K((K))
+
+A --- B
+A --- C
+A --- D
+
+B --- E
+B --- F
+
+E --- I
+
+C --- G
+G --- J
+
+D --- H
+H --- K
+```
 A tree is a connected, undirected graph with no cycles.
-    A rooted tree is a tree but one that has an identified root, so every node has a unique parent apart from the root.
-        A binary tree is a rooted tree in which each node has a maximum of two children.
-            A balanced binary tree is a tree where the nodes are distributed in such a way that the height is kept to a minimum, allowing for more efficient searching.
+A rooted tree is a tree but one that has an identified root, so every node has a unique parent apart from the root.
+A binary tree is a rooted tree in which each node has a maximum of two children.
+A balanced binary tree is a tree where the nodes are distributed in such a way that the height is kept to a minimum, allowing for more efficient searching.
 
 A binary tree can be traversed in three different ways:
-![[Pasted image 20220510021908.png]]`center`
+
+```mermaid
+graph TB  
+
+subgraph PostOrder
+
+Pos1((3)) --> Pos2((1))
+
+Pos1 --> Pos3((2))
+
+end
+
+
+subgraph InOrder
+
+In1((2)) --> In2((1))
+
+In1 --> In3((3))
+
+end
+subgraph PreOrder
+
+Pre1((1)) --> Pre2((2))
+
+Pre1 --> Pre3((3))
+
+end  
+
+```
 
 ### Graph Traversal Algorithms
 
 There are two ways of traversing a graph:
 - Depth-first, going down as far as you can down a path before back tracking and going down the next.
 - Breath-first, exploring all of the neighbours of the current vertex then the neighbours of each vertex after that.
-
-![[Pasted image 20220510022449.png]] `left`
+```mermaid
+graph LR
+A((A)) --- B
+B((B)) --- C
+C((C)) --- G((G))
+A --- D
+D((D)) --- B
+D --- F((F))
+A --- E
+E((E)) --- D
+```
 Depth first: A, B, C, G, D, F, E
 Breadth first: A, B, D, E, C, F, G
-
-
-
-
-
-
-
-
-
-
-#compsci #datascience #linkback

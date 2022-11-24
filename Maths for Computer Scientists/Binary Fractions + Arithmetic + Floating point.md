@@ -1,10 +1,6 @@
----
-banner: "![[Pasted image 20220510233532.png]]"
----
 
 # Binary Arithmetic
 
-10/05/2022
 
 ## Binary Addition
 
