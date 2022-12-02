@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OLD/Computer Systems (OLD)/Processor.md",
+                "file": "Data Representation/Encryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Data Representation/Encryption.md",
+                "file": ".obsidian/plugins/obsidian-chartsview-plugin/main.js",
                 "staged": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Representation/Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Representation/Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Representation/Encryption.md"
+              }
             }
           }
         ],
@@ -156,8 +159,8 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "OLD/Computer Systems (OLD)/Processor.md",
+    "conflict-files-obsidian-git.md",
     "OLD/Computer Systems (OLD)/Internal hardware.md",
     "OLD/Computer Systems (OLD)/Input and Output devices.md",
     "OLD/Computer Systems (OLD)/Instruction Set.md",
