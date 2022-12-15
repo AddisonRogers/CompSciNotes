@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Computation/Turing Machine.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory of Computation/Turing Machine.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory of Computation/Turing Machine.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory of Computation/Turing Machine.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "Data structures.md",
-    "Theory of Computation/3. Finite State Machines.md",
-    "Theory of Computation/5. RegEx.md",
-    "Theory of Computation/Turing Machine.md",
-    "Data Representation/Encryption.md",
+    "Data Representation/Representing Sound.md",
     "README.md",
-    "Computer Systems + Architecture/Role of an operating system.md",
-    "Computer Systems + Architecture/Logic Gates.md",
-    "Computer Systems + Architecture/Adders and D-Type flip flops.md",
-    "Data Representation/Binary Fractions + Arithmetic + Floating point.md"
+    "Data Representation/Number systems..md",
+    "Data Representation/Representing Images.md",
+    "Data Representation/Encryption.md",
+    "Data Representation/Compression.md",
+    "Data Representation/Bytes, ASCII, UNICODE, Error Checking..md",
+    "Data Representation/Boolean Algebra.md",
+    "Data Representation/Binary Fractions + Arithmetic + Floating point.md",
+    "Theory of Computation/Turing Machine.md"
   ]
 }
