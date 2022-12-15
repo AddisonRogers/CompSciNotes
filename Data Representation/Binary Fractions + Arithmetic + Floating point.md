@@ -33,7 +33,9 @@ Binary subtraction should be treated the same as binary addition but with the ne
 
 ![[Pasted image 20220510235144.png]]`center`
 This occurs because fractional values are negative powers of 2.
-![[Pasted image 20220510235221.png]]`center`
+| Place Value        | 2^2 | 2^1 | 2^0 | 2^-1 | 2^-2 | 2^-3 |
+| ------------------ | --- | --- | --- | ---- | ---- | ---- |
+| Decimal Equivalent | 4   | 2   | 1   | 0.5  | 0.25 | 0.125     |
 
 ## Fixed Point and Floating Point
 

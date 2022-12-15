@@ -49,7 +49,7 @@ The Unicode system was introduced to standardise the encoding of characters from
 
 When data is transmitted there may be electrical interference, power surges, synchronisation issues and or wear and tear on the cable transmitting it. This means that errors may occur that can cause bits to shift from 1s to 0s or 0s to 1.
 In order to check if there has been an error in transmission you can use a few methods:
-- [[Bytes, ASCII, UNICODE, Error Checking.#Parity bits|Parity bits]]
+- [[Bytes, ASCII, UNICODE, Error Checking#Parity bits|Parity bits]]
 - [[##Majority voting|Majority voting]]
 - [[##Check digits|Check digits]]
 - [[##Checksums|Checksums]].

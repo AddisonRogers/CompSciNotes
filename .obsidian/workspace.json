@@ -11,11 +11,9 @@
             "id": "7e01e7e2c9cadf60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20220511005154.png"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Images/Pasted image 20220511005154.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Images/Pasted image 20220511005154.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Images/Pasted image 20220511005154.png"
               }
             }
           }
@@ -148,15 +146,15 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "Algorithms/1. Reverse Polish.md",
-    "README.md",
-    "Data Representation/Representing Sound.md",
-    "Data Representation/Number systems..md",
-    "Data Representation/Representing Images.md",
-    "Data Representation/Encryption.md",
-    "Data Representation/Compression.md",
-    "Data Representation/Bytes, ASCII, UNICODE, Error Checking..md",
-    "Data Representation/Boolean Algebra.md",
-    "Data Representation/Binary Fractions + Arithmetic + Floating point.md"
+    "Images/Pasted image 20221103035403.png",
+    "Images/Pasted image 20221103035425.png",
+    "Images/Pasted image 20221110093049.png",
+    "Images/Pasted image 20221110094758.png",
+    "Images/Pasted image 20221115114425.png",
+    "Images/Pasted image 20221115114521.png",
+    "Images/Pasted image 20221115114615.png",
+    "Images/Pasted image 20221115114720.png",
+    "Data Representation/Binary Fractions + Arithmetic + Floating point.md",
+    "Data Representation/Number systems.md"
   ]
 }

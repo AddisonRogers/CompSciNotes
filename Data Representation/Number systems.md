@@ -39,12 +39,21 @@ If the numbers can be used to describe the position of where the values appear t
 ### Binary Number System
 
 The binary number system uses only two digits : 1 and 0, on or off. There is only 2 digits the system uses, therefore it is called Base 2.
-![[Pasted image 20220510211551.png]]`center`
+| Base Position | 2^7   | 2^6 | 2^5  | 2^4  | 2^3 | 2^2 | 2^1 | 2^0 |
+| ------------- | ----- | --- | ---- | ---- | --- | --- | --- | --- |
+| Place Value   | 128   | 64  | 32   | 16   | 8   | 4   | 2   | 1   |
+| Number        | 1     | 0   | 1    | 1    | 0   | 1   | 1   | 1   |
+| Digit Value   | 128*1 | 0   | 32*1 | 16*1 | 0   | 4*1 | 2*1 | 1*1    |
 
 ### Hexadecimal Number System
 
 The hexadecimal number system uses 16 digits : 0 - F. This is base 16.
-![[Pasted image 20220510211932.png]]`center`
+
+| Base Position | 16^2  | 16^1  | 16^0 |
+| ------------- | ----- | ----- | ---- |
+| Place Value   | 256   | 16    | 1    |
+| Number        | 3     | F     | 5    |
+| Digit Value   | 256*3 | 16*15 | 1*5     |
 
 
 > [!NOTE] Why use hex?
