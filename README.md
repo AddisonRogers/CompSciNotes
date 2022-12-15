@@ -3,6 +3,7 @@
 Notes for the AQA Computer Science A-Level.
 Contributes welcome, just match the rough style please.
 
+(Index if you use [Obsidian](https://obsidian.md))
 For the test after Christmas:
 
 [[Representing Images]]
