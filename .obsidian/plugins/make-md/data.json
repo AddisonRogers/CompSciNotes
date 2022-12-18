@@ -43,83 +43,6 @@
         "isFolder": true
       },
       {
-        "node": "Computer Systems",
-        "children": [
-          {
-            "node": "Adders and D-Type flip flops.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Assembly language.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Hardware and Software.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Instruction Set.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Logic Gates.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Input and Output devices.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Processor.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Internal hardware.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Role of an operating system.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Secondary storage devices.md",
-            "children": [],
-            "isFolder": false
-          }
-        ],
-        "isFolder": true
-      },
-      {
-        "node": "Maths for Computer Scientists",
-        "children": [
-          {
-            "node": "Binary Fractions + Arithmetic + Floating point.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Boolean Algebra.md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Number systems..md",
-            "children": [],
-            "isFolder": false
-          }
-        ],
-        "isFolder": true
-      },
-      {
         "node": "Data Representation",
         "children": [
           {
@@ -139,22 +62,6 @@
           },
           {
             "node": "Representing Sound.md",
-            "children": [],
-            "isFolder": false
-          }
-        ],
-        "isFolder": true
-      },
-      {
-        "node": "Data Science",
-        "children": [
-          {
-            "node": "Bytes, ASCII, UNICODE, Error Checking..md",
-            "children": [],
-            "isFolder": false
-          },
-          {
-            "node": "Data structures.md",
             "children": [],
             "isFolder": false
           }
@@ -414,6 +321,21 @@
           }
         ],
         "isFolder": true
+      },
+      {
+        "node": "Computer Systems + Architecture",
+        "children": [],
+        "isFolder": true
+      },
+      {
+        "node": "Data structures.md",
+        "children": [],
+        "isFolder": false
+      },
+      {
+        "node": "conflict-files-obsidian-git.md",
+        "children": [],
+        "isFolder": false
       }
     ],
     "isFolder": true
