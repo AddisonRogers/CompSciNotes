@@ -1,6 +1,5 @@
-# What is a Computer System?
+# What is a Computer System
 
-#compsci
 A computer system is any device that can take a set of inputs and process them into useful outputs
 ![](https://i.imgur.com/Z8C3XBI.png)
 

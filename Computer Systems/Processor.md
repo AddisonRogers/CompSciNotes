@@ -1,4 +1,3 @@
-#compsci
 Similar to the human brain a computer processor controls, calculates and executes instructions. A CPU has a number of different components to it, each with their own role to perform.
 1. [[#Arithmetic logic unit]]
 2. [[#Control unit]]

@@ -53,7 +53,7 @@ The operand in this case is the address of the location in memory of the data to
 
 ## High and Low Level Languages
 
-Machine code uses pure binary instructions, [[Assembly language]] uses [[Hardware and Software#Mnemonics|mnemomics]] for instructions both of these are low level languages.
+Machine code uses pure binary instructions, [[Assembly language]] uses [[OLD/Computer Systems (OLD)/Hardware and Software#Mnemonics|mnemomics]] for instructions both of these are low level languages.
 [[Assembly language]] is much easier for programmers to code, but still much harder than a high level language
 
 ### Mnemonics

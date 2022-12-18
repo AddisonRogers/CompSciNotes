@@ -4,33 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a868ef1c51574b",
+        "id": "a6432ebff3f7c001",
         "type": "tabs",
         "children": [
           {
-            "id": "3730dabf9540ec5a",
+            "id": "fd55af83775893f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Representation/Encryption.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "a362e05a34d83c12",
+            "id": "fc2baee51374e15e",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-chartsview-plugin/main.js",
+                "file": ".trash/Pasted image 20220511014002.png",
                 "staged": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Representation/Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Representation/Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Representation/Encryption.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3409df1076b86061",
+  "active": "fc2baee51374e15e",
   "lastOpenFiles": [
-    "OLD/Computer Systems (OLD)/Processor.md",
     "conflict-files-obsidian-git.md",
+    "Data Representation/Encryption.md",
+    "OLD/Computer Systems (OLD)/Processor.md",
     "OLD/Computer Systems (OLD)/Internal hardware.md",
     "OLD/Computer Systems (OLD)/Input and Output devices.md",
     "OLD/Computer Systems (OLD)/Instruction Set.md",
     "OLD/Computer Systems (OLD)/Hardware and Software.md",
     "OLD/Computer Systems (OLD)/Assembly language.md",
     "OLD/Computer Systems/N. Adders and D-Type flip flops.md",
-    "OLD/Computer Systems/1. Hardware and Software.md",
-    "OOP (OLD REDO).md"
+    "OLD/Computer Systems/1. Hardware and Software.md"
   ]
 }

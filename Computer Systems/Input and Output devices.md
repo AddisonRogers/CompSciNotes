@@ -1,6 +1,6 @@
+
 # Barcode Readers
 
-#compsci
 Barcode readers typically work on the principle of reflected light, light from a laser is directed at a pattern and a sensor detects the intensity of light that bounces back similar to [[Secondary storage devices#Optical storage|optical storage]]
 
 There are two common types of barcode system:

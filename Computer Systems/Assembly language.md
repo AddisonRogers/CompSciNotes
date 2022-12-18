@@ -1,6 +1,4 @@
-# Introduction
-
-Computers can only process instructions that are written in [[Instruction Set#Machine code|Machine Code]], Assembly language uses [[Hardware and Software#Mnemonics|mnemomics]] to represent operation codes and addresses.
+Computers can only process instructions that are written in [[Instruction Set#Machine code|Machine Code]], Assembly language uses [[OLD/Computer Systems (OLD)/Hardware and Software#Mnemonics|mnemomics]] to represent operation codes and addresses.
 
 # Registers and Accumulator
 
@@ -40,8 +38,16 @@ Some conditions:
 ## While Loops
 
 The equivalent of a while loop can be written using compare and branch instructions.
-![](https://i.imgur.com/0nuLPiM.png)
+```mermaid
+graph TD
+Start --> Set-total-to-0
+Set-total-to-0 --> Input-number
+Input-number --> Number=0?
+Number=0? --No--> Set-total-to-0
+Number=0? --Yes--> Store(Store Total in location 100)
+Store --> End
 
+```
 ## Logical Operators
 
 | Syntax                 | Meaning                                                                                                |
@@ -58,4 +64,3 @@ The equivalent of a while loop can be written using compare and branch instructi
 | LSL Rd, Rn, (operand) | Logically shift the value stored in register N by the number of bits specified by the operand left and then store the result in register D  |
 | LSR Rd, Rn, (operand) | Logically shift the value stored in register N by the number of bits specified by the operand right and then store the result in register D |
 
-#compsci

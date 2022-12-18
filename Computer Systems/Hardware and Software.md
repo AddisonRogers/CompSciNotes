@@ -9,7 +9,24 @@ Hardware describes the electrical or electro-mechanical parts of a computer syst
 Software comprises all of the programs that make the computer function.
     Software doesn’t have a physical presence but rather stored as data. Software programs fit into two categories: [[#System software]] or [[#Application software]]
 
-![[Pasted image 20220509012510.png]]
+```mermaid
+graph LR
+Software
+System-Software
+Application-Software
+
+Software --> System-Software
+Software --> Application-Software
+
+System-Software --> Operating-Systems
+System-Software --> Utility-Programs
+System-Software --> Library-Programs
+System-Software --> Translators
+
+Application-Software --> General-Purpose
+Application-Software --> Special-Purpose
+
+```
 
 ## System Software
 
