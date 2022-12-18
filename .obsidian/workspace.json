@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a6432ebff3f7c001",
+        "id": "17d00691a98c727f",
         "type": "tabs",
         "children": [
           {
-            "id": "fd55af83775893f2",
+            "id": "2358e8ee5b4a4750",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fc2baee51374e15e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".trash/Pasted image 20220511014002.png",
-                "staged": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,6 +66,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "40686857484daa93",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
               "state": {}
             }
           }
@@ -141,26 +137,34 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "c56da5b35dad61d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "fc2baee51374e15e",
+  "active": "2358e8ee5b4a4750",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Algorithms/Limits of computation.md",
+    "OOP/1. OOP Intro.md",
+    "Computer Systems/Adders and D-Type flip flops.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Data Representation/Encryption.md",
     "OLD/Computer Systems (OLD)/Processor.md",
     "OLD/Computer Systems (OLD)/Internal hardware.md",
-    "OLD/Computer Systems (OLD)/Input and Output devices.md",
-    "OLD/Computer Systems (OLD)/Instruction Set.md",
-    "OLD/Computer Systems (OLD)/Hardware and Software.md",
-    "OLD/Computer Systems (OLD)/Assembly language.md",
-    "OLD/Computer Systems/N. Adders and D-Type flip flops.md",
-    "OLD/Computer Systems/1. Hardware and Software.md"
+    "OLD/Computer Systems (OLD)/Input and Output devices.md"
   ]
 }
