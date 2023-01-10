@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6ff0f502fb11938d",
+        "id": "6674dbc81fb7b373",
         "type": "tabs",
         "children": [
           {
-            "id": "7e01e7e2c9cadf60",
+            "id": "6f1a1e8ad6da6ead",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Data Representation/Representing Images.md",
-                "staged": false
+                "file": "Communication and Networking/Communication methods.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Communication and Networking/Communication methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Communication and Networking/Communication methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Communication and Networking/Communication methods.md"
+              }
             }
           }
         ],
@@ -152,17 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e01e7e2c9cadf60",
+  "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "Data Representation/Representing Images.md",
-    "README.md",
-    "Data Representation/Representing Sound.md",
-    "Data Representation/Encryption.md",
-    "Algorithms/Reverse Polish.md",
-    "Data Representation/Compression.md",
     "Data structures.md",
-    "Images/Pasted image 20220511005154.png",
-    "Images/Pasted image 20220511001626.png",
-    "Images/Pasted image 20220511001608.png"
+    "Communication and Networking/Communication methods.md",
+    "Algorithms/Untitled.md",
+    "Algorithms/Reverse Polish.md",
+    "README.md",
+    "Data Representation/Encryption.md",
+    "Data Representation/Compression.md",
+    "Data Representation/Representing Sound.md",
+    "Data Representation/Representing Images.md",
+    "Images/Pasted image 20220511005154.png"
   ]
 }
