@@ -27,7 +27,7 @@ Can easily replicate an image with areas of changing colour. Individual pixels c
 Each pixel is given a binary value. Each value represents a different colour. Each pixel can represent a finite number of colours. 2^n dictates the bit depth and the number of colours that can be represented. A higher bit depth gives a greater range of colour and a better quality of image. 
 
 ### Calculating file size
-Image file size is determined by the number of pixels used and then umber of colour combinations available. Ie 2 megapixels x 24 bit colour depth = 2,000,000 x 24
+Image file size is determined by the number of pixels used and then number of colour combinations available. Ie 2 megapixels x 24 bit colour depth = 2,000,000 x 24
 
 Quality is traded off against file size - you cant have high quality and low file size.
 

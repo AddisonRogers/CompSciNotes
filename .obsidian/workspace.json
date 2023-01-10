@@ -11,9 +11,10 @@
             "id": "7e01e7e2c9cadf60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "diff-view",
               "state": {
-                "file": "Images/Pasted image 20220511005154.png"
+                "file": "Data Representation/Representing Images.md",
+                "staged": false
               }
             }
           }
@@ -92,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20220511005154.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20220511005154.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/Pasted image 20220511005154.png"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,17 +152,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3409df1076b86061",
+  "active": "7e01e7e2c9cadf60",
   "lastOpenFiles": [
+    "Data Representation/Representing Images.md",
+    "README.md",
+    "Data Representation/Representing Sound.md",
+    "Data Representation/Encryption.md",
+    "Algorithms/Reverse Polish.md",
+    "Data Representation/Compression.md",
+    "Data structures.md",
+    "Images/Pasted image 20220511005154.png",
     "Images/Pasted image 20220511001626.png",
-    "Images/Pasted image 20220511001608.png",
-    "Images/Pasted image 20220511001558.png",
-    "Images/Pasted image 20220510235834.png",
-    "Images/Pasted image 20220510235144.png",
-    "Images/Pasted image 20220510234143.png",
-    "Images/Pasted image 20220510210301.png",
-    "Images/Pasted image 20220510201331.png",
-    "Images/Pasted image 20220510201246.png",
-    "Images/Pasted image 20220510024727.png"
+    "Images/Pasted image 20220511001608.png"
   ]
 }
