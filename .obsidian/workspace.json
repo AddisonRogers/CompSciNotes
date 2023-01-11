@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73dc62f6d2841515",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "OOP/1. OOP Intro.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication and Networking/Communication methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication and Networking/Communication methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Communication and Networking/Communication methods.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,17 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3409df1076b86061",
+  "active": "73dc62f6d2841515",
   "lastOpenFiles": [
-    "Data structures.md",
     "Communication and Networking/Communication methods.md",
+    "conflict-files-obsidian-git.md",
+    "Data structures.md",
     "Algorithms/Untitled.md",
     "Algorithms/Reverse Polish.md",
     "README.md",
     "Data Representation/Encryption.md",
     "Data Representation/Compression.md",
     "Data Representation/Representing Sound.md",
-    "Data Representation/Representing Images.md",
-    "Images/Pasted image 20220511005154.png"
+    "Data Representation/Representing Images.md"
   ]
 }

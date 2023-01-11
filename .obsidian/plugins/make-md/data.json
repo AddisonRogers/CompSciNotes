@@ -1,0 +1,344 @@
+{
+  "filePreviewOnHover": false,
+  "markSans": false,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "inlineStylerColors": false,
+  "editorFlow": true,
+  "editorFlowStyle": "seamless",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "spacesStickers": true,
+  "spacesDisablePatch": false,
+  "sidebarTabs": false,
+  "deleteFileOption": "trash",
+  "folderRank": {
+    "node": "",
+    "children": [
+      {
+        "node": "Algorithms",
+        "children": [
+          {
+            "node": "Algorithm Complexity.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Searching.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Sorting.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Limits of computation.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Data Representation",
+        "children": [
+          {
+            "node": "Representing Images.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Compression.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Encryption.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Representing Sound.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "OOP",
+        "children": [
+          {
+            "node": "1. OOP Intro.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "2. Object Instantiation.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "6. Static Abstract Methods.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "3. Accessibility & Visibility.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "7. OOP Principles.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "5. Relationships.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "4. Inheritance.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Images",
+        "children": [
+          {
+            "node": "Pasted image 20220509084807.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220509085315.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220509142923.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510023934.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510201246.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220509143709.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510201331.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510024727.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510210301.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510211551.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510234143.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510235144.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510235834.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510211932.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220510235221.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220511001626.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220511005154.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220511001558.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20221110093049.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20221103035425.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20221103035403.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20220511001608.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20221110094758.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20221115114521.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20221115114425.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20221115114615.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pasted image 20221115114720.png",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "README.md",
+        "children": [],
+        "isFolder": false
+      },
+      {
+        "node": "OLD",
+        "children": [
+          {
+            "node": "Attachments (IGNORE)",
+            "children": [],
+            "isFolder": true
+          },
+          {
+            "node": "Computer Systems (OLD)",
+            "children": [],
+            "isFolder": true
+          },
+          {
+            "node": "Documents - Shortcut.lnk",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Data Science",
+            "children": [],
+            "isFolder": true
+          },
+          {
+            "node": "Maths for Computer Scientists",
+            "children": [],
+            "isFolder": true
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Theory of Computation",
+        "children": [
+          {
+            "node": "2. Optimisation Algorithms - Dijkstra's Shortest Path.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "1. Reverse Polish.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "3. Finite State Machines.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "5. RegEx.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "4. Sets.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "6. Backus-Naur Form.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Computer Systems + Architecture",
+        "children": [],
+        "isFolder": true
+      },
+      {
+        "node": "Data structures.md",
+        "children": [],
+        "isFolder": false
+      }
+    ],
+    "isFolder": true
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "spaces": [],
+  "vaultCollapsed": false,
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":"
+}
