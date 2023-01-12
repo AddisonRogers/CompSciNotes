@@ -1,14 +1,6 @@
 [
-  "obsidian-admonition",
   "table-editor-obsidian",
   "better-word-count",
-  "note-refactor-obsidian",
-  "obsidian-git",
-  "obsidian-chartsview-plugin",
-  "oz-clear-unused-images",
-<<<<<<< HEAD
-  "obsidian-linter"
-=======
-  "make-md"
->>>>>>> origin/master
+  "obsidian-linter",
+  "obsidian-git"
 ]
