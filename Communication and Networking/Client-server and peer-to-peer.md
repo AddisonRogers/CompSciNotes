@@ -1,4 +1,3 @@
-# Client-server and peer-to-peer
 
 ## A Client-server Network
 The server is a powerful computer which provides services or resources required by any of the clients.

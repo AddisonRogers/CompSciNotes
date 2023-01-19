@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication and Networking/Client-server and peer-to-peer.md",
+                "file": "Communication and Networking/Network Topologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fe1dbbb7a1de459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication and Networking/Wireless networking, CSMA and SSID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication and Networking/Client-server and peer-to-peer.md",
+                "file": "Communication and Networking/Wireless networking, CSMA and SSID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication and Networking/Client-server and peer-to-peer.md",
+                "file": "Communication and Networking/Wireless networking, CSMA and SSID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication and Networking/Client-server and peer-to-peer.md"
+                "file": "Communication and Networking/Wireless networking, CSMA and SSID.md"
               }
             }
           }
@@ -174,13 +186,13 @@
   "lastOpenFiles": [
     "Communication and Networking/Network Topologies.md",
     "Communication and Networking/Communication methods.md",
+    "Communication and Networking/Client-server and peer-to-peer.md",
     "Data Representation/Representing Images.md",
     "README.md",
     "Data Representation/Encryption.md",
     "Data Representation/Compression.md",
     "Data Representation/Representing Sound.md",
     "Data structures.md",
-    "Algorithms/Reverse Polish.md",
-    "conflict-files-obsidian-git.md"
+    "Algorithms/Reverse Polish.md"
   ]
 }
