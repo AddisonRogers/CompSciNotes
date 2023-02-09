@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication and Networking/IP addresses.md",
+                "file": "Communication and Networking/TCP, IP, Standard application layer protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication and Networking/IP addresses.md",
+                "file": "Communication and Networking/TCP, IP, Standard application layer protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication and Networking/IP addresses.md"
+                "file": "Communication and Networking/TCP, IP, Standard application layer protocols.md"
               }
             }
           }
@@ -180,12 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fe9b2fe09d0e955",
+  "active": "3409df1076b86061",
   "lastOpenFiles": [
+    "Communication and Networking/IP addresses.md",
     "Communication and Networking/Internet security.md",
     "Communication and Networking/Packet switching and routers.md",
     "Communication and Networking/TCP, IP, Standard application layer protocols.md",
-    "Communication and Networking/IP addresses.md",
     "Data Representation/Representing Images.md",
     "Communication and Networking/Structure of the internet.md",
     "Communication and Networking/Network Topologies.md",
