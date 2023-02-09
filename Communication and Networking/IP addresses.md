@@ -34,7 +34,8 @@ IP addresses can be either public or private. These addresses are non-routable a
 ## Network address translation
 Devices using private IP addresses cannot access the internet directly. Instead they communicate via another network device that provides Network address translation (NAT). 
 The translation device records the source and destination socket addresses for each request. It then communicates on the host's behalf with the destination IP address. When a response returns it is passed back to the host that made the original request.
-Nat can also provide port forwarding.
+![[Pasted image 20230209095628.png]]
+NAT can also provide port forwarding.
 
 ## DHCP
 Dynamic host configuration protocol (DHCP) is used to automatically assign IP addresses and any other network configuration information. This allows limited pools of dynamic IP addresses to be shared out between hosts and freed up when not needed. This also allows hosts to reconfigure themselves when moving between networks and reduces the number of IP addresses required locally as not all hosts will require network access at the same time.
