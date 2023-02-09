@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f1f694994593f68",
+        "id": "191856a5cc485c07",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c79638fff14cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication and Networking/IP addresses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f2da0ba99a7d258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication and Networking/TCP, IP, Standard application layer protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d629c275db0e3a97",
+            "id": "4b4f843367cb2922",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication and Networking/TCP, IP, Standard application layer protocols.md",
+                "file": "Communication and Networking/Internet security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication and Networking/TCP, IP, Standard application layer protocols.md",
+                "file": "Communication and Networking/Internet security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication and Networking/TCP, IP, Standard application layer protocols.md"
+                "file": "Communication and Networking/Internet security.md"
               }
             }
           }
@@ -184,6 +159,8 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
+    "Algorithms/Untitled.md",
+    "Data structures.md",
     "Communication and Networking/IP addresses.md",
     "Communication and Networking/Internet security.md",
     "Communication and Networking/Packet switching and routers.md",
@@ -191,8 +168,6 @@
     "Data Representation/Representing Images.md",
     "Communication and Networking/Structure of the internet.md",
     "Communication and Networking/Network Topologies.md",
-    "Communication and Networking/Communication methods.md",
-    "Communication and Networking/Client-server and peer-to-peer.md",
-    "README.md"
+    "Communication and Networking/Communication methods.md"
   ]
 }
