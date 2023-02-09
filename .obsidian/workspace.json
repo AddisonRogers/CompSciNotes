@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "f83e80163d57c25e",
+        "id": "7f1f694994593f68",
         "type": "tabs",
         "children": [
           {
-            "id": "254dba852ddb8c64",
+            "id": "b8c79638fff14cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Representation/Representing Images.md",
+                "file": "Communication and Networking/IP addresses.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "90c25977dea0b0d9",
+            "id": "8f2da0ba99a7d258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication and Networking/Packet switching and routers.md",
+                "file": "Communication and Networking/TCP, IP, Standard application layer protocols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d629c275db0e3a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication and Networking/Internet security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication and Networking/Packet switching and routers.md",
+                "file": "Communication and Networking/IP addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication and Networking/Packet switching and routers.md",
+                "file": "Communication and Networking/IP addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication and Networking/Packet switching and routers.md"
+                "file": "Communication and Networking/IP addresses.md"
               }
             }
           }
@@ -170,17 +180,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3409df1076b86061",
+  "active": "b8c79638fff14cd1",
   "lastOpenFiles": [
+    "Communication and Networking/Internet security.md",
+    "Communication and Networking/Packet switching and routers.md",
+    "Communication and Networking/TCP, IP, Standard application layer protocols.md",
+    "Communication and Networking/IP addresses.md",
     "Data Representation/Representing Images.md",
     "Communication and Networking/Structure of the internet.md",
     "Communication and Networking/Network Topologies.md",
     "Communication and Networking/Communication methods.md",
     "Communication and Networking/Client-server and peer-to-peer.md",
-    "README.md",
-    "Data Representation/Encryption.md",
-    "Data Representation/Compression.md",
-    "Data Representation/Representing Sound.md",
-    "Data structures.md"
+    "README.md"
   ]
 }
