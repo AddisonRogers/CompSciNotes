@@ -1,5 +1,3 @@
-# Network Topologies
-
 One computer not connected to any other computing device is called a 'standalone'. As soon as you connect two or more computers together they form a network. All networks are either a local area network or a wide area network.
 
 ## Local Area Networks

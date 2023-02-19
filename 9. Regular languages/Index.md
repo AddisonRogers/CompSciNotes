@@ -1,6 +1,6 @@
--   Mealy machines
--   Sets
--   Regular expressions
--   The Turing machine
--   Backus-Naur form
--   Revers Polish notation
+- [[Finite state machines#Mealy machine|Mealy machines]]
+- [[Sets]]
+- [[RegEx|Regular Expressions]]
+- [[Turing Machine|The Turing Machine]]
+- [[Backus-Naur form]]
+- [[Reverse Polish notation]]

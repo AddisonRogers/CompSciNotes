@@ -1,3 +1,5 @@
+#Remake 
+
 Computers can only process instructions that are written in [[Instruction Set#Machine code|Machine Code]], Assembly language uses [[OLD/Computer Systems (OLD)/Hardware and Software#Mnemonics|mnemomics]] to represent operation codes and addresses.
 
 # Registers and Accumulator

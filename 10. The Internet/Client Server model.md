@@ -58,6 +58,7 @@ Database -- JSON or XML --> Web
 Web -- Browser interprets JSON or XML response --> Client
 ```
 
+
 ## JSON and XML
 There are two widely used formats for data interchange between clients and servers:
 1. JavaScript Object Notation (JSON) is written in a standard programming form, similar to JavaScript, and can be directly used by JavaScript with many other languages able to read and write it.

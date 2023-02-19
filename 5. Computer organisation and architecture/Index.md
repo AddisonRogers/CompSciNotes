@@ -1,6 +1,6 @@
--   Internal computer hardware
--   The processor
--   The processor instruction set
--   Assembly language
--   Input-output devices
--   Secondary storage devices
+- [[Internal hardware|Internal computer hardware]]
+- [[Processor|The processor]]
+- [[Instruction Set|The processor instruction set]]
+- [[Assembly language]]
+- [[Input and Output devices|Input-output devices]]
+- [[Secondary storage devices]]

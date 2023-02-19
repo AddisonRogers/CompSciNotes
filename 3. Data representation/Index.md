@@ -1,12 +1,6 @@
--   Number systems
-    
--   Bits, bytes and binary
-    
--   Binary arithmetic and the representation of fractions
-    
--   Bitmapped graphics
-    
--   Digital representation of sound
-    
--   Data compression and encryption algorithms
-    
+- [[Number systems]]
+- [[Bytes, ASCII, UNICODE, Error Checking|Bits, bytes and binary]]
+- [[Binary Fractions + Arithmetic + Floating point|Binary arithmetic and the representation of fractions]]
+- [[Representing Images|Bitmapped graphics]]
+- [[Representing Sound|Digital representation of sound]]
+- [[Compression|Data compression]] and [[Encryption|encryption algorithms]]

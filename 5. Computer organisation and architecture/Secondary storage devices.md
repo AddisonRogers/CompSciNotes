@@ -1,4 +1,4 @@
-
+#Remake 
 Primary storage devices are volatile and usually refer to RAM. However Secondary storage refers to non-volatile storages such as:
 - Magnetic storage (Hard Disk)
 - Optical storage (CD-ROM)

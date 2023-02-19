@@ -1,4 +1,4 @@
-# Communication Methods
+#Remake 
 
 ## Serial and Parallel Data Transmission
 
@@ -12,7 +12,6 @@ Bits are sent one after another along the same data line. This means that only o
 ### Parallel Data Transmission
 
 Several bits are sent simultaneously along separate lines or channels. This means that an 8-bit block of data will require 8 data channels, plus some extra for control information.
-
 
 ## A short History
 
@@ -80,3 +79,15 @@ Bit rate is bits per second
 Bit rate = Baud rate x number of bits per signal
 
 Bandwidth is a measure of the maximum capacity of a communications channel. In computer networks the term bandwidth is used as a synonym for data transfer rate usually expressed in bps, Mbps or Gbps.
+
+## Queues
+
+A queue is a data structure under a first in last out (FIFO) system. With either adding items to the rear or removing items from the front. A queue as a fixed size array may easily run into problems as the pointer of where the head is increases by one rather than changing the data beneath it. Therefore circular queues are made.
+
+### Circular Queue
+
+A circular queue fixes this problem by reusing spaces that have been freed by dequeuing from the front of the array instead of just moving the pointer along one.
+
+### Priority Queue
+
+In a priority queue some items are allowed to jump the queue as each item has a different priority associated with it.

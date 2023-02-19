@@ -1,7 +1,7 @@
--   Queues
--   Lists
--   Stacks
--   Hash tables and dictionaries
--   Graphs
--   Trees
--   Vectors
+- [[Queues]]
+- [[Arrays and Lists|Lists]]
+- [[Stacks]]
+- [[Hash tables and dictionaries]]
+- [[Graphs]]
+- [[Graphs#Trees|Trees]]
+- [[Vectors]]

@@ -1,3 +1,4 @@
+#Remake
 
 # Binary Arithmetic
 
@@ -59,3 +60,4 @@ Normalisation is the process of moving the binary point of a floating point numb
 ## Rounding and Relative Errors.
 
 As you cannot have perfect decimals (1/3) then you will always occur with errors. To measure the errors impact on our calculation we can calculate the relative error.  If the actual error is $x$ and the correct value of measurement is $m$  then we can do $(x/m) *100$ which gives us the relative error.
+

@@ -1,3 +1,4 @@
+#Remake
 
 ## Types of Numbers
 
@@ -5,13 +6,13 @@
 
 These values are numbers that are used to count items.
 
-![[Pasted image 20220510201246.png]]`center`
+![[Pasted image 20220510201246.png]]
 
 ### Whole Numbers
 
 These values are positive or negative numbers, also called integers.
 
-![[Pasted image 20220510201331.png]]`center`
+![[Pasted image 20220510201331.png]]
 
 ### Rational Numbers
 
@@ -58,3 +59,4 @@ The hexadecimal number system uses 16 digits : 0 - F. This is base 16.
 
 > [!NOTE] Why use hex?
 > We use hexadecimal value because it is much easier to read, remember and type in comparison to a string of binary digits. Hex is used for colours, mac addresses, in assembly languages and machine code. It is also very easy to convert to and from binary.
+

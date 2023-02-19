@@ -1,7 +1,9 @@
+- Programming basics
+- Selection
+- Iteration
+- Arrays
+- Subroutines
+- Files and exception handling
+#TODO 
 
--   Programming basics
--   Selection
--   Iteration
--   Arrays
--   Subroutines
--   Files and exception handling
+// I am probably not going to do this lmao

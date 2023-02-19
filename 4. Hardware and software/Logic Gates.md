@@ -1,3 +1,4 @@
+#Remake 
 
 A computer is a collection of transistors and circuits with two states:
 - on = 1 = true, where there is a current flowing through the component

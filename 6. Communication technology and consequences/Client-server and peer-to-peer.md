@@ -1,3 +1,4 @@
+#Remake 
 
 ## A Client-server Network
 The server is a powerful computer which provides services or resources required by any of the clients.
@@ -16,8 +17,6 @@ A central server is used to manage security, files, processing tasks. You genera
 ## Peer to Peer Network
 A peer to peer network has no central server.
 It is generally used for small companies with no need for a central server.
-
-
 
 ### Summary
 | Client Server                                              | Peer to peer                                          |
