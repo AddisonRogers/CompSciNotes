@@ -1,0 +1,7 @@
+-   Queues
+-   Lists
+-   Stacks
+-   Hash tables and dictionaries
+-   Graphs
+-   Trees
+-   Vectors

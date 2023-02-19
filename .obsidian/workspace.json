@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "191856a5cc485c07",
+        "id": "f214de77ac33d8cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4b4f843367cb2922",
+            "id": "715f2b5e8b400cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communication and Networking/Internet security.md",
+                "file": "8. Algorithms/Algorithm Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 361.5
   },
   "right": {
     "id": "220181bcc8b012aa",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication and Networking/Internet security.md",
+                "file": "8. Algorithms/Algorithm Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication and Networking/Internet security.md",
+                "file": "8. Algorithms/Algorithm Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communication and Networking/Internet security.md"
+                "file": "8. Algorithms/Algorithm Complexity.md"
               }
             }
           }
@@ -154,20 +154,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "ava:Ava": false,
+      "ava:Ava - Show Links": false,
+      "ava:Ava - Open Rewrite Playground": false
     }
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "Algorithms/Untitled.md",
-    "Data structures.md",
-    "Communication and Networking/IP addresses.md",
-    "Communication and Networking/Internet security.md",
-    "Communication and Networking/Packet switching and routers.md",
-    "Communication and Networking/TCP, IP, Standard application layer protocols.md",
-    "Data Representation/Representing Images.md",
-    "Communication and Networking/Structure of the internet.md",
-    "Communication and Networking/Network Topologies.md",
-    "Communication and Networking/Communication methods.md"
+    "Index.md",
+    "12. OOP and functional programming/Index.md",
+    "5. Computer organisation and architecture/Index.md",
+    "9. Regular languages/Index.md",
+    "6. Communication technology and consequences/Index.md",
+    "8. Algorithms/Index.md",
+    "7. Data Structures/Index.md",
+    "4. Hardware and software/Index.md",
+    "3. Data representation/Index.md",
+    "2. Problem solving and theory of computation/Index.md"
   ]
 }

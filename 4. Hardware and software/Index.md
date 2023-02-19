@@ -1,0 +1,6 @@
+-   Hardware and software
+-   Role of an operating system
+-   Programming language classification
+-   Programming language translators
+-   Logic gates
+-   Boolean algebra

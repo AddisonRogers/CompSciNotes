@@ -1,0 +1,5 @@
+-   Recursive algorithms
+-   Big-O notation
+-   Searching and sorting
+-   Graph-traversal algorithms
+-   Limits of computation

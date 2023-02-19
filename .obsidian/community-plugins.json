@@ -2,5 +2,8 @@
   "table-editor-obsidian",
   "better-word-count",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "oz-clear-unused-images",
+  "note-refactor-obsidian",
+  "ava"
 ]

@@ -1,0 +1,6 @@
+-   Mealy machines
+-   Sets
+-   Regular expressions
+-   The Turing machine
+-   Backus-Naur form
+-   Revers Polish notation

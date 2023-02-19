@@ -1,5 +1,7 @@
 {
   "accentColor": "",
-  "baseFontSize": 19,
-  "cssTheme": "Adwaita"
+  "baseFontSize": 16,
+  "cssTheme": "Adwaita",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter"
 }

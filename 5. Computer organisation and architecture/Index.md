@@ -1,0 +1,6 @@
+-   Internal computer hardware
+-   The processor
+-   The processor instruction set
+-   Assembly language
+-   Input-output devices
+-   Secondary storage devices
