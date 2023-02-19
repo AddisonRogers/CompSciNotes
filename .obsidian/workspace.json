@@ -11,12 +11,8 @@
             "id": "8748d3b5bbde9370",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,9 +140,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "ava:Ava": false,
-      "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,8 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8748d3b5bbde9370",
+  "active": "3409df1076b86061",
   "lastOpenFiles": [
+    "Ava - Getting Started.md",
+    "README.md",
     "Index.md",
     "7. Data Structures/Index.md",
     "1. Fundamentals of programming/Index.md",
@@ -169,8 +160,6 @@
     "7. Data Structures/Queues.md",
     "7. Data Structures/Arrays and Lists.md",
     "7. Data Structures/Stacks.md",
-    "7. Data Structures/Hash Tables and dictionaries.md",
-    "7. Data Structures/Vectors.md",
-    "10. The Internet/Index.md"
+    "7. Data Structures/Hash Tables and dictionaries.md"
   ]
 }
