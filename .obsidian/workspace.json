@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c76ba09c6817691d",
+        "id": "191856a5cc485c07",
         "type": "tabs",
         "children": [
           {
-            "id": "8748d3b5bbde9370",
+            "id": "4b4f843367cb2922",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 238.5
   },
   "right": {
     "id": "220181bcc8b012aa",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -151,15 +159,15 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "Ava - Getting Started.md",
-    "README.md",
-    "Index.md",
-    "7. Data Structures/Index.md",
-    "1. Fundamentals of programming/Index.md",
-    "7. Data Structures/Graphs.md",
-    "7. Data Structures/Queues.md",
-    "7. Data Structures/Arrays and Lists.md",
-    "7. Data Structures/Stacks.md",
-    "7. Data Structures/Hash Tables and dictionaries.md"
+    "Communication and Networking/Internet security.md",
+    "Algorithms/Untitled.md",
+    "Data structures.md",
+    "Communication and Networking/IP addresses.md",
+    "Communication and Networking/Packet switching and routers.md",
+    "Communication and Networking/TCP, IP, Standard application layer protocols.md",
+    "Data Representation/Representing Images.md",
+    "Communication and Networking/Structure of the internet.md",
+    "Communication and Networking/Network Topologies.md",
+    "Communication and Networking/Communication methods.md"
   ]
 }
