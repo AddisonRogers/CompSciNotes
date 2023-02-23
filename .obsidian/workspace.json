@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a281204f7f9fc1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. OOP and functional programming/Functional/Functional programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07b58688e5167f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. OOP and functional programming/Functional/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 299.5
   },
   "right": {
     "id": "220181bcc8b012aa",
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "12. OOP and functional programming/Functional/Functional programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "12. OOP and functional programming/Functional/Functional programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "12. OOP and functional programming/Functional/Functional programming.md"
               }
             }
           }
@@ -159,15 +184,15 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
+    "12. OOP and functional programming/Functional/Untitled.md",
+    "12. OOP and functional programming/Functional/Functional programming.md",
+    "README.md",
+    "12. OOP and functional programming/Index.md",
     "Communication and Networking/Internet security.md",
     "Algorithms/Untitled.md",
     "Data structures.md",
     "Communication and Networking/IP addresses.md",
     "Communication and Networking/Packet switching and routers.md",
-    "Communication and Networking/TCP, IP, Standard application layer protocols.md",
-    "Data Representation/Representing Images.md",
-    "Communication and Networking/Structure of the internet.md",
-    "Communication and Networking/Network Topologies.md",
-    "Communication and Networking/Communication methods.md"
+    "Communication and Networking/TCP, IP, Standard application layer protocols.md"
   ]
 }
