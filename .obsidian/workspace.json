@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -152,7 +152,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41987bed4f25dcd4",
+  "active": "3409df1076b86061",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Ava - Getting Started.md",
