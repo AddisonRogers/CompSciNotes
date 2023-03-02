@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "19d86efa1b8fa3c0",
+        "id": "638d47a84a80a4ca",
         "type": "tabs",
         "children": [
           {
-            "id": "41987bed4f25dcd4",
+            "id": "666bef146579bd12",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "12. OOP and functional programming/Functional/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "socket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "12. OOP and functional programming/Functional/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "12. OOP and functional programming/Functional/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "12. OOP and functional programming/Functional/Untitled.md"
+              }
             }
           }
         ],
@@ -154,15 +159,15 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Ava - Getting Started.md",
-    "README.md",
+    "5. Computer organisation and architecture/Assembly language.md",
+    "5. Computer organisation and architecture/Instruction Set.md",
+    "5. Computer organisation and architecture/Input and Output devices.md",
+    "5. Computer organisation and architecture/Processor.md",
+    "5. Computer organisation and architecture/Internal hardware.md",
+    "5. Computer organisation and architecture/Index.md",
     "Index.md",
-    "7. Data Structures/Index.md",
-    "1. Fundamentals of programming/Index.md",
-    "7. Data Structures/Graphs.md",
-    "7. Data Structures/Queues.md",
-    "7. Data Structures/Arrays and Lists.md",
-    "7. Data Structures/Stacks.md"
+    "README.md",
+    "3. Data representation/Index.md",
+    "2. Problem solving and theory of computation/Index.md"
   ]
 }
