@@ -13,4 +13,5 @@ Functional programming is not totally different from other paradigms, which also
 Variables in functional programming are immutable and the program is stateless.
 
 The only thing a function can do is calculate something and return a result, and it is said to have no side effects. A consequence of not being able to change the value of an object is that every time a function is called with the same parameters it will always return the same result.
+
 A simple function can be proved to be correct and then used to build more complex functions

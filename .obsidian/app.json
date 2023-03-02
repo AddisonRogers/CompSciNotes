@@ -3,5 +3,8 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Images",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ]
 }

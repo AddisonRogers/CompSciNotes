@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "638d47a84a80a4ca",
+        "id": "fa05a6e8e4ad9a47",
         "type": "tabs",
         "children": [
           {
-            "id": "96b2d08728f320e0",
+            "id": "075461096e6483ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "12. OOP and functional programming/1. OOP Intro.md",
+                "staged": false
               }
             }
           }
@@ -48,21 +47,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "socket",
+                "query": "#remake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "770c05f6472b6a34",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -74,11 +65,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 367.5
   },
   "right": {
     "id": "220181bcc8b012aa",
@@ -94,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,26 +139,42 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96b2d08728f320e0",
+  "active": "075461096e6483ba",
   "lastOpenFiles": [
-    "12. OOP and functional programming/Functional/Untitled.md",
-    "12. OOP and functional programming/Functional/Function Application.md",
+    "4. Hardware and software/Adders and D-Type flip flops.md",
+    "Index.md",
+    "2. Problem solving and theory of computation/Index.md",
     "12. OOP and functional programming/Big Data.md",
+    "12. OOP and functional programming/Functional/Lists in functional programming.md",
+    "12. OOP and functional programming/Index.md",
     "conflict-files-obsidian-git.md",
+    "10. The Internet/Client Server model.md",
+    "10. The Internet/Index.md",
+    "12. OOP and functional programming/Functional/Function Application.md",
+    "12. OOP and functional programming/Functional/Functional programming.md",
+    "Excalidraw/Drawing 2023-03-02 18.28.26.excalidraw.md",
+    "Excalidraw",
+    "Images/Pasted image 20230302161708.png",
+    "Images/Pasted image 20230209123205.png",
+    "Images/Pasted image 20230209122619.png",
+    "Images/Pasted image 20230209123155.png",
+    "Images/Pasted image 20230209101832.png",
+    "Images/Pasted image 20230209093843.png",
+    "Images/Pasted image 20230209104406.png",
+    "Images/Pasted image 20230209093327.png",
+    "Images/Pasted image 20221115114720.png",
+    "Images/Pasted image 20230209095858.png",
     "5. Computer organisation and architecture/Assembly language.md",
     "5. Computer organisation and architecture/Instruction Set.md",
     "5. Computer organisation and architecture/Input and Output devices.md",
     "5. Computer organisation and architecture/Processor.md",
     "5. Computer organisation and architecture/Internal hardware.md",
     "5. Computer organisation and architecture/Index.md",
-    "Index.md",
     "README.md",
-    "3. Data representation/Index.md",
-    "2. Problem solving and theory of computation/Index.md"
+    "3. Data representation/Index.md"
   ]
 }

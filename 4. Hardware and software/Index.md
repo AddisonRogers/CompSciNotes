@@ -4,4 +4,4 @@
 - Programming language translators
 - [[Logic Gates]]
 - [[Boolean algebra]]
-#TODO 
+#TODO
