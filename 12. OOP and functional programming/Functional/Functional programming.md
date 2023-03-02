@@ -14,15 +14,3 @@ Variables in functional programming are immutable and the program is stateless.
 
 The only thing a function can do is calculate something and return a result, and it is said to have no side effects. A consequence of not being able to change the value of an object is that every time a function is called with the same parameters it will always return the same result.
 A simple function can be proved to be correct and then used to build more complex functions
-
-A function is a higher-order function if it takes a function as an argument or returns a function as a result or does both.
-
-## The map function
-Map is a higher-order function that takes a list and the function to be applied to the elements in the list as inputs, and returns a list made by applying the function to each element of the old list.
-
-A list is a collection of elements which can be written in square brackets.
-
-## The filter function
-Filter is another higher-order function which takes a predicate (to define a Boolean condition) and a list. It returns the elements within the list that satisfy the Boolean condition.
-
-## Fold (reduce function)
