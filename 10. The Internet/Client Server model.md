@@ -1,4 +1,4 @@
-﻿# Client server model
+# Client server model
 Network services are designed to act as on-demand services where the server is responsible for the bulk of the processing. A server presents its services to requesting clients. If the request cannot be fulfilled a suitable notification will be sent. 
 
 ```mermaid
