@@ -1,8 +1,9 @@
-#Remake 
+#Remake
 
 ## Serial and Parallel Data Transmission
 
 Serial data cables include the USB.
+
 Parallel cables are a ribbon of several smaller cables used primarily for connecting internal components
 
 ### Serial Data Transmission
@@ -17,8 +18,7 @@ Several bits are sent simultaneously along separate lines or channels. This mean
 
 In the early days of computing, vast amounts of data were sent via [[Communication methods#Serial data transmission|serial connections]]. These were reliable but slow.
 
-Makers began using [[Communication methods#Parallel data transmission|parallel connections]] 
-
+Makers began using [[Communication methods#Parallel data transmission|parallel connections]]
 
 ## Problems with Parallel Data Transmission
 
@@ -44,7 +44,6 @@ Using async data transmission, each byte is sent separately the moment it is ava
 
 Async transmission is relatively slow owing to the increased number of bits being sent. It is a cheap and effective form of serial transmission well suited to low-speed connections such as keyboard and mouse.
 
-
 ## The Parity Bit
 
 The parity bit or check bit is added as the 8th bit as a form of error detection.
@@ -56,26 +55,33 @@ Latency is the time delay between the moment the first byte or packet of a commu
 ## Protocol
 
 All communications between devices require that the devices agree on the format of the data. The set of rules relating to communication between devices is called a protocol.
+
 The protocol needs to define for example:
+
 - Standards for physical connections and cabling
 - The rate of transmission
 - Data format
 - Whether transmission is synchronous or async
 - Error checking procedures
 
-## Speed of transmission
+## Speed of Transmission
 
 Bit rate is the number of bits transmitted in one second over a wired or wireless data link. Using baseband at each signal change one bit is transmitted. The faster the signal change, the greater the number of bits per second.
 
-## Bit rate and baud rate
+## Bit Rate and Baud Rate
 
-Bit rate is the number of bits transmitted in one second over a wired or wireless data link. 
+Bit rate is the number of bits transmitted in one second over a wired or wireless data link.
+
 Baud rate is the rate at which the signal in a communications channel changes state.
+
 It is usually measured in megabits per second.
+
 Baseband carries one signal at a time. A bit is represented by a high or low voltage in the cable. Broadband carries multiple signals on a fixed carrier wave. Bits are sent as variations on the wave.
 
 Baud rate is the rate at which the signal changes
+
 Bit rate is bits per second
+
 Bit rate = Baud rate x number of bits per signal
 
 Bandwidth is a measure of the maximum capacity of a communications channel. In computer networks the term bandwidth is used as a synonym for data transfer rate usually expressed in bps, Mbps or Gbps.

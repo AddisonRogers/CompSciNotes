@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6626de7b0d11c74f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b129fc99a0337cdc",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Hardware and software/Index.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Hardware and software/Index.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Hardware and software/Index.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -169,11 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3409df1076b86061",
+  "active": "6626de7b0d11c74f",
   "lastOpenFiles": [
+    "4. Hardware and software/Index.md",
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20230302161708.png",
     "4. Hardware and software/Programming language classification.md",
     "4. Hardware and software/Adders and D-Type flip flops.md",
-    "4. Hardware and software/Index.md",
     "10. The Internet/Index.md",
     "9. Regular languages/Index.md",
     "8. Algorithms/Index.md",
@@ -187,7 +202,6 @@
     "Index.md",
     "12. OOP and functional programming/Index.md",
     "10. The Internet/Internet security.md",
-    "conflict-files-obsidian-git.md",
     "10. The Internet/Client Server model.md",
     "README.md",
     "Communication and Networking/Internet security.md",

@@ -1,4 +1,5 @@
-Regular expressions are patterns used to specify a set of strings. They are expressed using a special notation. 
+Regular expressions are patterns used to specify a set of strings. They are expressed using a special notation.
+
 RegEx is used for finding particular words in a stream, combinations of characters in strings and defining a set of acceptable strings in a language.
 
 | Symbol | Meaning                                                        |
@@ -12,8 +13,8 @@ RegEx is used for finding particular words in a stream, combinations of characte
 
 ie A+B {AB, AAB, ABB etc}
 
-
-## Regular language
+## Regular Language
 
 A language is regular if it can be represented by a regular expression or a finite state machine.
+
 (You can also define a regular expression as a finite state machine but it's so easy and much effort)

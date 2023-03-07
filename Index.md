@@ -1,4 +1,3 @@
-
 ## 1. [[1. Fundamentals of programming/Index|Fundamentals of programming]]
 
 ![[1. Fundamentals of programming/Index]]
@@ -41,8 +40,8 @@
 
 ## 11. [[11. Databases and software development/Index|Databases and software development]]
 
-![[11. Databases and software development/Index]]   
+![[11. Databases and software development/Index]]
 
 ## 12. [[12. OOP and functional programming/Index|OOP and functional programming]]
 
-![[12. OOP and functional programming/Index]] 
+![[12. OOP and functional programming/Index]]
