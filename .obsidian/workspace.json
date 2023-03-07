@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "4. Hardware and software/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b129fc99a0337cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Hardware and software/Programming language classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "classification",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "4. Hardware and software/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "4. Hardware and software/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "4. Hardware and software/Index.md"
               }
             }
           }
@@ -159,14 +171,23 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
-    "12. OOP and functional programming/Big Data.md",
-    "12. OOP and functional programming/Index.md",
-    "Index.md",
-    "12. OOP and functional programming/Functional/Function Application.md",
+    "4. Hardware and software/Programming language classification.md",
+    "4. Hardware and software/Adders and D-Type flip flops.md",
+    "4. Hardware and software/Index.md",
+    "10. The Internet/Index.md",
+    "9. Regular languages/Index.md",
+    "8. Algorithms/Index.md",
+    "6. Communication technology and consequences/Index.md",
+    "5. Computer organisation and architecture/Index.md",
+    "3. Data representation/Index.md",
+    "3. Data representation/Encryption.md",
     "12. OOP and functional programming/Functional/Functional programming.md",
+    "12. OOP and functional programming/Functional/Function Application.md",
+    "12. OOP and functional programming/Big Data.md",
+    "Index.md",
+    "12. OOP and functional programming/Index.md",
     "10. The Internet/Internet security.md",
     "conflict-files-obsidian-git.md",
-    "10. The Internet/Index.md",
     "10. The Internet/Client Server model.md",
     "README.md",
     "Communication and Networking/Internet security.md",
