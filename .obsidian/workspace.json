@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Communication technology and consequences/Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Communication technology and consequences/Index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Communication technology and consequences/Index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Communication technology and consequences/Index.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,6 +158,12 @@
   },
   "active": "3409df1076b86061",
   "lastOpenFiles": [
+    "Index.md",
+    "7. Data Structures/Graphs.md",
+    "7. Data Structures/Index.md",
+    "7. Data Structures/Hash Tables and dictionaries.md",
+    "3. Data representation/Binary Fractions + Arithmetic + Floating point.md",
+    "6. Communication technology and consequences/Index.md",
     "5. Computer organisation and architecture/Index.md",
     "4. Hardware and software/Adders and D-Type flip flops.md",
     "4. Hardware and software/Index.md",
@@ -168,22 +174,16 @@
     "10. The Internet/Index.md",
     "9. Regular languages/Index.md",
     "8. Algorithms/Index.md",
-    "6. Communication technology and consequences/Index.md",
     "3. Data representation/Index.md",
     "3. Data representation/Encryption.md",
     "12. OOP and functional programming/Functional/Functional programming.md",
     "12. OOP and functional programming/Functional/Function Application.md",
     "12. OOP and functional programming/Big Data.md",
-    "Index.md",
     "12. OOP and functional programming/Index.md",
     "10. The Internet/Internet security.md",
     "10. The Internet/Client Server model.md",
     "README.md",
     "Communication and Networking/Internet security.md",
-    "Algorithms/Untitled.md",
-    "Data structures.md",
-    "Communication and Networking/IP addresses.md",
-    "Communication and Networking/Packet switching and routers.md",
-    "Communication and Networking/TCP, IP, Standard application layer protocols.md"
+    "Algorithms/Untitled.md"
   ]
 }
