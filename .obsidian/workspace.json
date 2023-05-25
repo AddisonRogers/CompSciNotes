@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "5. Computer organisation and architecture/Processor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c542f7451cb67c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Communication technology and consequences/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,9 +85,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "323fe83fc1d6c8e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "6. Communication technology and consequences/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "6. Communication technology and consequences/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "6. Communication technology and consequences/Index.md"
               }
             }
           }
@@ -156,34 +176,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3409df1076b86061",
+  "active": "c542f7451cb67c92",
   "lastOpenFiles": [
     "Index.md",
+    "6. Communication technology and consequences/Wireless networking, CSMA and SSID.md",
+    "6. Communication technology and consequences/Index.md",
+    "6. Communication technology and consequences/Communication and privacy.md",
+    "6. Communication technology and consequences/Client-server and peer-to-peer.md",
+    "10. The Internet/Packet switching and routers.md",
+    "10. The Internet/TCP, IP, Standard application layer protocols.md",
+    "10. The Internet/Structure of the internet.md",
+    "10. The Internet/Client Server model.md",
+    "6. Communication technology and consequences/Communication methods.md",
+    "10. The Internet/Index.md",
+    "5. Computer organisation and architecture/Instruction Set.md",
+    "5. Computer organisation and architecture/Processor.md",
+    "5. Computer organisation and architecture/Input and Output devices.md",
+    "5. Computer organisation and architecture/Internal hardware.md",
+    "README.md",
     "7. Data Structures/Graphs.md",
     "7. Data Structures/Index.md",
     "7. Data Structures/Hash Tables and dictionaries.md",
     "3. Data representation/Binary Fractions + Arithmetic + Floating point.md",
-    "6. Communication technology and consequences/Index.md",
     "5. Computer organisation and architecture/Index.md",
     "4. Hardware and software/Adders and D-Type flip flops.md",
     "4. Hardware and software/Index.md",
     "4. Hardware and software/Programming language translators.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230302161708.png",
-    "4. Hardware and software/Programming language classification.md",
-    "10. The Internet/Index.md",
-    "9. Regular languages/Index.md",
-    "8. Algorithms/Index.md",
-    "3. Data representation/Index.md",
-    "3. Data representation/Encryption.md",
-    "12. OOP and functional programming/Functional/Functional programming.md",
-    "12. OOP and functional programming/Functional/Function Application.md",
-    "12. OOP and functional programming/Big Data.md",
-    "12. OOP and functional programming/Index.md",
-    "10. The Internet/Internet security.md",
-    "10. The Internet/Client Server model.md",
-    "README.md",
-    "Communication and Networking/Internet security.md",
-    "Algorithms/Untitled.md"
+    "4. Hardware and software/Programming language classification.md"
   ]
 }

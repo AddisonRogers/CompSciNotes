@@ -9,11 +9,3 @@ If you see a page that may not be up to quality add a #Remake at the end or at w
 This is made using [Obsidian,](https://obsidian.md) and I highly recommend everyone to use it for the repo to make sense.
 
 I am sorry for the messy layout. It is based on the latest spec sheet for the A-Level exams rather than what makes sense.
-
-
-Test that is soon:
-[[1. Fundamentals of programming/Index]]
-[[3. Data representation/Index]]
-[[8. Algorithms/Index]]
-[[9. Regular languages/Index]]
-[[12. OOP and functional programming/Index]]
